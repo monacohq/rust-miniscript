@@ -29,7 +29,7 @@ actual-serde = { package = "serde", version = "1.0", optional = true }
 
 [dependencies.bitcoin]
 git = "ssh://git@github.com/monacohq/rust-bitcoin.git"
-branch = "altcoin-support-v0.29.2"
+branch = "ravencoin-support"
 default-features = false
 
 [dev-dependencies]
